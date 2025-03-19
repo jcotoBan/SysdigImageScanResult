@@ -13,3 +13,7 @@ Then, fill the config.yaml file:
 
 Ie, lets say i want to retrieve an scan result for image docker.io/bitnami/redis-exporter:1.50.0-debian-11-r9 from runtime on us4 region.
 
+Fill the config.yaml:
+
+![]images/1
+
