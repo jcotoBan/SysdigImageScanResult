@@ -15,5 +15,5 @@ Ie, lets say i want to retrieve an scan result for image docker.io/bitnami/redis
 
 Fill the config.yaml:
 
-![]images/1
+![](images/1.png)
 
