@@ -1,0 +1,4 @@
+region: #The region of your tenant, you can check for reference https://docs.sysdig.com/en/docs/administration/saas-regions-and-ip-ranges/
+token: #Your Sysdig API token
+option: #p for pipeline and r for runtime
+image_name: #The full image name, name/repo:tag
